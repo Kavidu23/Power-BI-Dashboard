@@ -30,6 +30,40 @@ The project was meticulously executed, covering every phase from problem definit
 
 ---
 
+---
+
+## 🧠 Skills Learned
+
+As part of the **Amazon Product Review Analysis: Business Intelligence Solution** project, the following skills and tools were applied and developed:
+
+### 🔧 Tools & Technologies
+- **Power BI**
+  - Dashboard Design
+  - Power Query (Data Cleaning & Transformation)
+  - DAX (Calculated Columns & Measures)
+- **Python**
+  - Data Preprocessing (pandas, numpy)
+  - Sentiment Analysis (TextBlob)
+  - Word Cloud Generation (matplotlib, wordcloud)
+
+### 📊 Data Analysis & BI Skills
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Natural Language Processing (NLP)
+- Business Intelligence Reporting
+- Interactive Q&A Interface Development
+
+### 📈 Business & Communication Skills
+- Business Problem Definition
+- Case Study Research
+- Insight Generation & Interpretation
+- Recommendation Writing
+- Ethical Considerations in Data Usage
+- Stakeholder-Oriented Reporting
+
+---
+
+
 ## 📈 Exploratory Data Analysis & Visualizations (Power BI)
 
 ![](media/dashboard.png)  
@@ -118,11 +152,7 @@ The project was meticulously executed, covering every phase from problem definit
 
 ---
 
-## 🤝 Video Link
 
-- Video Link – [Case Studies](https://liveplymouthac-my.sharepoint.com/personal/10952412_students_plymouth_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2F10952412%5Fstudents%5Fplymouth%5Fac%5Fuk%2FDocuments%2F0611%20%285%29%281%29%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E315d1eaa%2Daab8%2D41f8%2D9323%2D9a1d3f626933)
-
----
 
 ## 📚 References
 
