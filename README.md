@@ -30,6 +30,11 @@ The project was meticulously executed, covering every phase from problem definit
 
 ---
 
+## 📂 Power BI Dashboard File
+
+You can download and explore the Power BI dashboard file here:  
+[Amazon Product Review Analysis - Power BI File](https://liveplymouthac-my.sharepoint.com/:u:/g/personal/10952412_students_plymouth_ac_uk/Ednw0d0wPo1Bn04uxT9dMDoBX1rmhQ-z2J6JxNrKLIXd4Q?e=SidwIg)
+
 ---
 
 ## 🧠 Skills Learned
